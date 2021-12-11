@@ -25,7 +25,3 @@ gunicorn==20.0.4
 psycopg2-binary==2.8.6
 whitenoise==5.2.0
 ```
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
